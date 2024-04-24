@@ -1,1 +1,2 @@
 # Traffic-Light-System
+Introducing a groundbreaking traffic management solution: the Embedded Traffic Light System. Seamlessly integrating a 16x2 LCD with two seven-segment displays and LED indicators, this innovative project leverages the full potential of the ATmega328P microcontroller. By synchronizing operations across hardware abstraction and device input/output layers, it delivers a dynamic, interactive experience. With meticulously crafted drivers and intelligent coordination, it epitomizes efficiency and versatility in traffic control technology
